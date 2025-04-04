@@ -1,0 +1,3 @@
+PRIVATE_KEYS=privatekey
+EMAIL=your_haha_wallet_email
+PASSWORD=your_haha_wallet_password

@@ -1,0 +1,4 @@
+web3
+colorama
+aiohttp
+asyncio
