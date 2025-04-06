@@ -1,4 +1,4 @@
-web3==7.10.0
+web3==6.20.1
 colorama==0.4.6
 aiohttp==3.11.16
 asyncio==3.4.3
