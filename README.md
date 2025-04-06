@@ -54,6 +54,12 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
+## If you found some error try This
+```bash
+pip uninstall web3
+pip install web3==6.20.1
+```
+
 ## Installation and Usage on Windows PowerShell
 
 ### Clone Repository
